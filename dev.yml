@@ -1,1 +1,2 @@
-here is dev
+config:
+  info: "here is a dev!!!"
